@@ -1,7 +1,9 @@
 title: Munish Rajora
+email: mrg2431@gmail.com
 # logo:
-description: Sr. Data Scientist2
-logo: ![image](https://github.com/munishrajora/MunishRajora.github.io/assets/20648408/9848fed6-56ed-4d44-8d82-2749c2c1f47e)
-show_downloads: true
+description: Sr. Data Scientist
+url: "https://munishrajora.github.io/"
+# logo: ![image](https://github.com/munishrajora/MunishRajora.github.io/assets/20648408/9848fed6-56ed-4d44-8d82-2749c2c1f47e)
+#show_downloads: true
 theme: jekyll-theme-minimal
 
