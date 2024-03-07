@@ -64,3 +64,15 @@ The project focused on critical component failure prediction and diagnostics for
 • Enhanced customer satisfaction by ensuring uninterrupted printer performance and timely resolution of issues
 
 • Contributed to cost savings by reducing the need for emergency repairs and replacement of critical components
+
+
+
+
+# Achievements:
+• Led the Speech Sentinel team in the "Solve 2023 Insights Lab Intelligent Call Audit [i-Audit]" Hackathon, where we developed an AI-powered voice-to-text solution to transform call quality auditing.
+ 
+• Successfully addressed a wide range of audit factors, covering the highest number (17) among participating teams and leading on 15 factors.
+ 
+• Recognized for outstanding performance and received support from management to platformize the developed solution as the "i-Audit Copilot" for the HP Support Organization.
+
+
