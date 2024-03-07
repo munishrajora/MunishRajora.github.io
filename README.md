@@ -1,4 +1,5 @@
-![image](https://github.com/munishrajora/MunishRajora.github.io/assets/20648408/33f9a145-a443-4a86-a0cd-2dc22a5e6b16)
+![image](https://github.com/munishrajora/MunishRajora.github.io/assets/20648408/94452330-9b0a-428a-a29e-f82a4dde8e4d)
+
 
 
 # Projects
