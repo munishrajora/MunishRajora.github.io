@@ -67,12 +67,19 @@ The project focused on critical component failure prediction and diagnostics for
 
 # Contributions to Research Papers:
 • Presented multiple research papers at prestigious HP internal conferences, including **DSKD** and **HPICS**, highlighting the depth and quality of work and commitment to innovation:
+
 	1. i-Audit Copilot: AI-powered Voice-To-Text solution to Transforming Call Quality Audition within HP Support Organization (DSKD-2023)
+ 
 	2. Polyglot Printer - an innovative approach to printer technology and its industry implications (HPICs 2023)
+ 
 	3. Print with Automatic Image Enhancement using Deep Learning (HPICs 2023)
+ 
 	4. Single ML-Model for multiple platforms for Part Failure Prediction  (DSKD-2022)
+ 
 	5. Predicting Dispatch and Part Requirements Via Case Note Analysis (DSKD-2021)
+ 
 	6. Autonomous Diagnose Before Dispatch using Deep Learning NMU vs MU (DSKD-2020)
+ 
 	7. Part Failure Prediction for Large Format Production (DSKD-2018)
 
 
