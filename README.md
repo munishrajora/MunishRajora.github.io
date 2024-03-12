@@ -60,7 +60,7 @@ Our patent introduces a groundbreaking system for monitoring device health, leve
 - Complex Analysis
 
 
-# Work Projects with Hewlett-Packard (HP) Inc.
+# AI Initiatives at Hewlett-Packard (HP) Inc.: Transformative Projects and Innovations
 
 ## i-Audit Copilot Project - Enhanced Call Audit System
 
