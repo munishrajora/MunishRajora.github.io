@@ -3,8 +3,7 @@
 
 <span style="font-size:larger;">[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Connect with Me on LinkedIn](https://www.linkedin.com/in/munishrajora)</span>
 
-![image](https://github.com/munishrajora/MunishRajora.github.io/assets/20648408/d0b93ff9-7186-4fcb-a3dc-799ce7e52f71)
-
+![image](https://github.com/munishrajora/MunishRajora.github.io/assets/20648408/bde1a382-44a8-4a0a-b156-ccffff6fc778)
 
 
 # Patent
