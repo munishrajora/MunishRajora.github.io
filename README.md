@@ -1,5 +1,13 @@
 ![image](https://github.com/munishrajora/MunishRajora.github.io/assets/20648408/4888a077-03e4-400c-947b-98669e41cbff)
 
+
+# Patent
+
+## Monitoring Device Health through Multi-Modal Data Analysis
+
+Our patent introduces a groundbreaking system for monitoring device health, leveraging cutting-edge multi-modal data analysis techniques. By seamlessly integrating telemetry data from devices with call log data from ongoing interactions, our system provides precise assessments of the likelihood of remote issue resolution. This advanced analysis equips call agents with actionable insights, guiding their decisions on whether to pursue remote resolution or escalate to alternative measures, such as recommending replacement parts. Through this innovative approach, our system optimizes support operations, enhancing efficiency, and customer satisfaction while reducing operational costs.
+
+
 # EDUCATION
 
 ### Indian Institute of Technology Madras, Chennai
