@@ -1,4 +1,4 @@
-<span style="font-size:larger;">Email: mrg2431@gmail.com</span>
+<span style="font-size:larger;">[Email: mrg2431@gmail.com]</span>
 
 
 <span style="font-size:larger;">[Connect with Me on LinkedIn](https://www.linkedin.com/in/munishrajora)</span>
