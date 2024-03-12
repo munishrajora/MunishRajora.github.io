@@ -1,4 +1,5 @@
-<span style="font-size:larger;">mrg2431@gmail.com</span>
+<span style="font-size: larger;">&#9993; mrg2444@gmail.com</span>
+
 
 
 <span style="font-size:larger;">[Connect with Me on LinkedIn](https://www.linkedin.com/in/munishrajora)</span>
