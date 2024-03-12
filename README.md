@@ -32,14 +32,14 @@ Our patent introduces a groundbreaking system for monitoring device health, leve
 - LATEX
 
 ### Software & Frameworks:
-- **Machine Learning:** Scikit-Learn, Keras, TensorFlow
-- **Deep Learning:** PyTorch, Hugging Face Transformers
-- **Explainable AI:** Lime, Shap
-- **Optimization:** Pulp
+- **Machine Learning & Deep Learning:** Scikit-Learn, TensorFlow, PyTorch, Hugging Face Transformers
 - **Large Language Models (LLM):**
-  - OpenAI GPT, GPT-3
+  - OpenAI GPT-3.5, GPT-4
   - *Fine-tuning of open-source models*
 - **Prompt Engineering**
+- **Explainable AI:** Lime, Shap
+- **Optimization:** Pulp
+
 
 
 # Employment
