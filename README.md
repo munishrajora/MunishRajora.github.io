@@ -32,7 +32,7 @@
 # EMPLOYMENT
 
 ### Hewlett-Packard (HP) Inc.  
-- **Sr. Data Scientist III** (June 2022 – Present)
+- **Sr. Data Scientist (Tech Lead)** (June 2022 – Present)
 - **Data Scientist III** (Oct 2019 – June 2022)
 - **Data Scientist II** (Apr 2019 – Sep 2019)
 - **Machine Learning Engineer** (Aug 2017 – Mar 2019)
