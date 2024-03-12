@@ -1,3 +1,10 @@
+<div style="text-align: center;">
+  <span style="font-size: larger;"><a href="mailto:mrg2444@gmail.com">&#9993; mrg2444@gmail.com</a></span>
+</div>
+
+
+
+
 <center><span style="font-size: larger;"><a href="mailto:mrg2431@gmail.com">&#9993; mrg2431@gmail.com</a></span></center>
 
 
