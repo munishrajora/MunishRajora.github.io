@@ -1,5 +1,5 @@
 
-<span style="font-size:larger;"><meta name="google-site-verification" content="mnN5h8n1GZDnB1U4-DpEtUr_TCjcUXyuI4SetIRmpIA" /></span>
+<span style="font-size:larger;"><name="google-site-verification" content="mnN5h8n1GZDnB1U4-DpEtUr_TCjcUXyuI4SetIRmpIA" /></span>
 
 
 <span style="font-size: larger;"><a href="mailto:mrg2431@gmail.com">&#9993; mrg2431@gmail.com</a></span>
