@@ -1,8 +1,6 @@
 <span style="font-size: larger;">&#9993; mrg2444@gmail.com</span>
 
-
-
-<span style="font-size:larger;">[Connect with Me on LinkedIn](https://www.linkedin.com/in/munishrajora)</span>
+<span style="font-size:larger;">[&#128175; Connect with Me on LinkedIn](https://www.linkedin.com/in/munishrajora)</span>
 
 
 ![image](https://github.com/munishrajora/MunishRajora.github.io/assets/20648408/4888a077-03e4-400c-947b-98669e41cbff)
