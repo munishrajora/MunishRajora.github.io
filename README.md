@@ -1,6 +1,22 @@
 ![image](https://github.com/munishrajora/MunishRajora.github.io/assets/20648408/4888a077-03e4-400c-947b-98669e41cbff)
 
 
+# EMPLOYMENT
+
+### Hewlett-Packard (HP) Inc.  
+- **Sr. Data Scientist III** (June 2022 – Present)
+- **Data Scientist III** (Oct 2019 – June 2022)
+- **Data Scientist II** (Apr 2019 – Sep 2019)
+- **Machine Learning Engineer** (Aug 2017 – Mar 2019)
+
+### Govt. P.G. Nehru College, Jhajjar
+- **Assistant Professor of Mathematics** (Aug 2013 – Apr 2015)
+
+#### Courses Taught:
+- Linear Algebra
+- Differential Equations
+- Partial Differential Equations
+- Complex Analysis
 
 
 # Projects
