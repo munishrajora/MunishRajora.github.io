@@ -1,7 +1,8 @@
 <center>
 <span style="font-size: larger;"><a href="mailto:mrg2431@gmail.com">&#9993; mrg2431@gmail.com</a></span>
+</center>
 
-
+<center>
 <span style="font-size:larger;">[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Connect with Me on LinkedIn](https://www.linkedin.com/in/munishrajora)</span>
 </center>
 
