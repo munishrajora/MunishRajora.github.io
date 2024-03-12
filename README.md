@@ -1,5 +1,33 @@
 ![image](https://github.com/munishrajora/MunishRajora.github.io/assets/20648408/4888a077-03e4-400c-947b-98669e41cbff)
 
+# EDUCATION
+
+### Indian Institute of Technology Madras, Chennai
+- **M.Tech, Industrial Mathematics and Scientific Computing (IMSC)** (Jul 2015 – Jun 2017)
+  - CGPA: 8.67/10
+
+### M.D.U. Rohtak
+- **M.Sc., Mathematics** (Aug 2010 – Jun 2012)
+
+# TECHNICAL SKILLS
+
+### Programming:
+- Python (Proficient)
+- MATLAB
+- R
+- C++
+- LATEX
+
+### Software & Frameworks:
+- **Machine Learning:** Scikit-Learn, Keras, TensorFlow
+- **Deep Learning:** PyTorch, Hugging Face Transformers
+- **Explainable AI:** Lime, Shap
+- **Optimization:** Pulp
+- **Large Language Models (LLM):**
+  - OpenAI GPT, GPT-3
+  - *Fine-tuning of open-source models*
+- **Prompt Engineering**
+
 
 # EMPLOYMENT
 
@@ -36,27 +64,8 @@ The 'i-Audit Copilot' project was initiated to optimize the performance of custo
 Through collaborative innovation and diligent teamwork, we delivered a transformative solution that significantly elevated call auditing standards, ultimately enhancing customer satisfaction and organizational performance. The 'i-Audit Copilot' project stands as a testament to our commitment to excellence and innovation in addressing complex business challenges.
 
 
-
-
-# work Projects with Hewlett-Packard (HP) Inc
-
-## i-Audit Copilot Project - Enhanced Call Audit System
-### Overview:
-The 'i-Audit Copilot' project was initiated to optimize the performance of customer support centers, where call agents serve as the frontline representatives, handling diverse customer inquiries. Traditional methods of call auditing proved cumbersome and subjective, often requiring manual listening to recorded calls, particularly burdensome for organizations dealing with high call volumes. To overcome these challenges, our solution harnessed cutting-edge voice-to-text conversion technology, revolutionizing the auditing process.
-### Key Contributions:
-• Spearheading a dynamic team of 5-6 individuals, I led the development of an enhanced call audit system, prioritizing efficiency and quality in a customer-centric environment.
-
-• Leveraged innovative voice-to-text conversion technology and a hybrid model blending deep learning and statistical techniques to effectively identify areas for improvement in call agent performance.
-
-• Addressed the limitations of traditional auditing methods by automating the process and enhancing objectivity, resulting in significant time and resource savings for the organization.
-
-• Ensured seamless communication and collaboration among team members, fostering a culture of innovation and excellence in project execution.
-
-### Impact:
-Through collaborative innovation and diligent teamwork, we delivered a transformative solution that significantly elevated call auditing standards, ultimately enhancing customer satisfaction and organizational performance. The 'i-Audit Copilot' project stands as a testament to our commitment to excellence and innovation in addressing complex business challenges.
-
-
 ## Intelligent-Insight: Root Cause Analysis for Printer-Offline Issues
+
 ### Overview:
 As the lead data scientist, I spearheaded the 'Intelligent-Insight' project aimed at addressing the persistent challenge of identifying the root cause of printer-offline issues, a significant source of service calls for HP. These issues encompass various factors, including access point unavailability, weak signal strength, firmware problems, and issues with internet service providers. The complexity lies in the multitude of factors contributing to each issue, making efficient root cause identification a daunting task. The project's overarching goal was to develop an efficient and accurate method to streamline the resolution process, ultimately enhancing customer experience and reducing service costs.
 
@@ -68,70 +77,82 @@ Our innovative approach led to significant improvements in operational efficienc
 
 
 ## Call Summarization using Gen-AI
+
 ### Overview:
-• In a fast-paced environment where call agents handle diverse queries, maintaining accurate case notes while engaging with customers can be challenging. Our project, "Call Summarization using Gen-AI," aims to streamline this process by summarizing conversations between agents and customers, creating structured case notes for enhanced understanding and analysis of customer needs.
+In a fast-paced environment where call agents handle diverse queries, maintaining accurate case notes while engaging with customers can be challenging. Our project, "Call Summarization using Gen-AI," aims to streamline this process by summarizing conversations between agents and customers, creating structured case notes for enhanced understanding and analysis of customer needs.
+
 ### Technical Approach:
-• Utilizing the LLAMA2-7B Model, we conducted a compact Proof of Concept (POC) with promising results. Our solution capitalizes on the LLAMA2 model, running locally to ensure data security and confidentiality within the HP network. Additionally, we continuously explore newer Large Language Models (LLMs) to optimize outcomes.
+Utilizing the LLAMA2-7B Model, we conducted a compact Proof of Concept (POC) with promising results. Our solution capitalizes on the LLAMA2 model, running locally to ensure data security and confidentiality within the HP network. Additionally, we continuously explore newer Large Language Models (LLMs) to optimize outcomes.
 
 ### Key Advantages:
-• AI-generated structured case notes ensure consistency across cases, saving significant time for agents.
+- AI-generated structured case notes ensure consistency across cases, saving significant time for agents.
+- Enhanced understanding of customer pain points benefits various teams:
+  - Research and Development leverages valuable data for analysis
+  - The Audit team gains clarity on call intricacies
+  - The Customer Obsession team better addresses customer needs
+  - The Reporting & Analytics Team utilizes comprehensive case notes for in-depth analysis
 
-• Enhanced understanding of customer pain points benefits various teams:
-
-• Research and Development leverages valuable data for analysis
-
-• The Audit team gains clarity on call intricacies
-
-• The Customer Obsession team better addresses customer needs
-
-• The Reporting & Analytics Team utilizes comprehensive case notes for in-depth analysis
 
 ## Part Failure Prediction for High-end Printers
+
 ### Overview:
 
 The project focused on critical component failure prediction and diagnostics for high-end HP printers. Our objective was to develop a model capable of predicting failure parts in advance, leveraging telemetry datasets containing error codes, timestamps, and failure datasets with component information and timestamps.
 
 ### Key Contributions:
 
-• Utilized advanced machine learning techniques to develop a predictive model for failure prediction, ensuring alignment with business needs
-
-• Identified and optimized machine learning metrics to enhance the model's performance, achieving the required precision and recall limits
-
-• Leveraged the regional and functional hierarchy within printer error codes to extract valuable insights and improve prediction accuracy
-
-• Successfully developed and implemented a robust model for part failure prediction, contributing to proactive maintenance strategies and minimizing printer downtime
+- Utilized advanced machine learning techniques to develop a predictive model for failure prediction, ensuring alignment with business needs.
+- Identified and optimized machine learning metrics to enhance the model's performance, achieving the required precision and recall limits.
+- Leveraged the regional and functional hierarchy within printer error codes to extract valuable insights and improve prediction accuracy.
+- Successfully developed and implemented a robust model for part failure prediction, contributing to proactive maintenance strategies and minimizing printer downtime.
 
 ### Impact:
-• Improved operational efficiency by enabling proactive maintenance and minimizing unplanned downtime
 
-• Enhanced customer satisfaction by ensuring uninterrupted printer performance and timely resolution of issues
+- Improved operational efficiency by enabling proactive maintenance and minimizing unplanned downtime.
+- Enhanced customer satisfaction by ensuring uninterrupted printer performance and timely resolution of issues.
+- Contributed to cost savings by reducing the need for emergency repairs and replacement of critical components.
 
-• Contributed to cost savings by reducing the need for emergency repairs and replacement of critical components
 
 # Contributions to Research Papers:
-• Presented multiple research papers at prestigious HP internal conferences, including **DSKD** and **HPICS**, highlighting the depth and quality of work and commitment to innovation:
 
-1. i-Audit Copilot: AI-powered Voice-To-Text solution to Transforming Call Quality Audition within HP Support Organization (DSKD-2023)
+Presented multiple research papers at prestigious HP internal conferences, including **DSKD** and **HPICS**, highlighting the depth and quality of work and commitment to innovation:
 
-2. Polyglot Printer - an innovative approach to printer technology and its industry implications (HPICs 2023)
+1. **i-Audit Copilot**: AI-powered Voice-To-Text solution to Transforming Call Quality Audition within HP Support Organization (DSKD-2023)
 
-3. Print with Automatic Image Enhancement using Deep Learning (HPICs 2023)
+2. **Polyglot Printer** - an innovative approach to printer technology and its industry implications (HPICs 2023)
 
-4. Single ML-Model for multiple platforms for Part Failure Prediction  (DSKD-2022)
+3. **Print with Automatic Image Enhancement using Deep Learning** (HPICs 2023)
 
-5. Predicting Dispatch and Part Requirements Via Case Note Analysis (DSKD-2021)
+4. **Single ML-Model for multiple platforms for Part Failure Prediction** (DSKD-2022)
 
-6. Autonomous Diagnose Before Dispatch using Deep Learning NMU vs MU (DSKD-2020)
+5. **Predicting Dispatch and Part Requirements Via Case Note Analysis** (DSKD-2021)
 
-7. Part Failure Prediction for Large Format Production (DSKD-2018)
+6. **Autonomous Diagnose Before Dispatch using Deep Learning NMU vs MU** (DSKD-2020)
+
+7. **Part Failure Prediction for Large Format Production** (DSKD-2018)
 
 
 # Achievements:
+
 • Led the Speech Sentinel team in the **Solve 2023 Insights Lab Intelligent Call Audit [i-Audit]** Hackathon, where we developed an AI-powered voice-to-text solution to transform call quality auditing.
- 
+
 • Successfully addressed a wide range of audit factors, covering the highest number (17) among participating teams and leading on 15 factors.
- 
+
 • Recognized for outstanding performance and received support from management to platformize the developed solution as the "i-Audit Copilot" for the HP Support Organization.
 
+# RESEARCH PROJECTS
+
+## TV Program Assets Scheduling
+*Jun 2016–May 2017*
+
+- Completed a one-year project on real-life data with Tiger Analytics on TV PROGRAM ASSETS SCHEDULING.
+- Under esteemed guidance of Prof. S. Sundar, Department of Mathematics, IIT Madras.
+- Aim of the project was to develop a recommendation engine for a TV channel which suggests assets based on:
+  - Historical data to generate optimum revenue.
+  - Characteristics provided by users like Genres, Actors, Directors, and Writers.
+- **Description:**
+  - Modeled the monetary value of a movie shown at a particular time.
+  - Formulated Binary Integer Programming subject to business constraints.
+  - Utilized techniques such as Neural Network, Random Forest, Multi-linear Regression, and Binary Integer Programming.
 
 
