@@ -1,4 +1,5 @@
-<span style="font-size:larger; color:blue;">Get in Touch (mrg2431@gmail.com)</span>
+<span style="font-size:larger; color:blue;">Get in Touch</span> 
+<span style="font-size:larger;">(mrg2431@gmail.com)</span>
 
 
 <span style="font-size:larger;">[Connect with Me on LinkedIn](https://www.linkedin.com/in/munishrajora)</span>
