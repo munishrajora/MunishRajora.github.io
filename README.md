@@ -1,4 +1,6 @@
-<span style="font-size:larger;">[Email Me](mrg2431@gmail.com)</span>
+<span style="font-size:larger;">[Email Me on mrg2431@gmail.com](mrg2431@gmail.com)</span>
+
+
 <span style="font-size:larger;">[Visit My LinkedIn Profile](https://www.linkedin.com/in/munishrajora)</span>
 
 
