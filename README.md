@@ -1,12 +1,9 @@
-
-<span style="font-size:larger;">name=google-site-verification content=mnN5h8n1GZDnB1U4-DpEtUr_TCjcUXyuI4SetIRmpIA</span>
-
-
+<center>
 <span style="font-size: larger;"><a href="mailto:mrg2431@gmail.com">&#9993; mrg2431@gmail.com</a></span>
 
 
 <span style="font-size:larger;">[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Connect with Me on LinkedIn](https://www.linkedin.com/in/munishrajora)</span>
-
+</center>
 
 ![image](https://github.com/munishrajora/MunishRajora.github.io/assets/20648408/4888a077-03e4-400c-947b-98669e41cbff)
 
