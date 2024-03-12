@@ -155,4 +155,15 @@ Presented multiple research papers at prestigious HP internal conferences, inclu
   - Formulated Binary Integer Programming subject to business constraints.
   - Utilized techniques such as Neural Network, Random Forest, Multi-linear Regression, and Binary Integer Programming.
 
+# SCHOLASTIC ACHIEVEMENTS
+
+- **GATE Qualified:** Successfully qualified the Graduate Aptitude Test in Engineering (GATE) in 2013 and 2015. GATE is a highly competitive examination conducted by the Indian Institutes of Technology (IITs) for admission to master's and PhD programs in IITs and NITs, showcasing a strong academic aptitude and commitment to higher education.
+
+# CO-CURRICULAR ACTIVITIES
+
+- **Placement Coordinator:** Served as the Placement Coordinator for the Mathematics Department at IIT Madras, demonstrating leadership and organizational skills in facilitating career opportunities for peers.
+
+- **Volunteer for Cancer Awareness:** Contributed as a volunteer for a Cancer Awareness program, actively participating in fundraising activities aimed at supporting cancer patients. This experience highlights a commitment to social responsibility and community engagement.
+
+- **Orchestra Participant:** Showcased musical talent and teamwork by participating in the Orchestra (H) at the Zonal Youth Festival of MDU Rohtak, where the performance was adjudged 3rd. This involvement in cultural activities underscores a well-rounded personality with interests beyond academics.
 
