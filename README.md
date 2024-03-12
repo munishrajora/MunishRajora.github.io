@@ -1,3 +1,7 @@
+<span style="font-size:larger;">[Email Me](mrg2431@gmail.com)</span>
+<span style="font-size:larger;">[Visit My LinkedIn Profile](https://www.linkedin.com/in/munishrajora)</span>
+
+
 ![image](https://github.com/munishrajora/MunishRajora.github.io/assets/20648408/4888a077-03e4-400c-947b-98669e41cbff)
 
 
