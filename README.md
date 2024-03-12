@@ -8,7 +8,7 @@
 Our patent introduces a groundbreaking system for monitoring device health, leveraging cutting-edge multi-modal data analysis techniques. By seamlessly integrating telemetry data from devices with call log data from ongoing interactions, our system provides precise assessments of the likelihood of remote issue resolution. This advanced analysis equips call agents with actionable insights, guiding their decisions on whether to pursue remote resolution or escalate to alternative measures, such as recommending replacement parts. Through this innovative approach, our system optimizes support operations, enhancing efficiency, and customer satisfaction while reducing operational costs.
 
 
-# EDUCATION
+# Education
 
 ### Indian Institute of Technology Madras, Chennai
 - **M.Tech, Industrial Mathematics and Scientific Computing (IMSC)** (Jul 2015 – Jun 2017)
@@ -17,7 +17,7 @@ Our patent introduces a groundbreaking system for monitoring device health, leve
 ### M.D.U. Rohtak
 - **M.Sc., Mathematics** (Aug 2010 – Jun 2012)
 
-# TECHNICAL SKILLS
+# Technical Skills
 
 ### Programming:
 - Python (Proficient)
@@ -37,7 +37,7 @@ Our patent introduces a groundbreaking system for monitoring device health, leve
 - **Prompt Engineering**
 
 
-# EMPLOYMENT
+# Employment
 
 ### Hewlett-Packard (HP) Inc.  
 - **Sr. Data Scientist (Tech Lead)** (June 2022 – Present)
