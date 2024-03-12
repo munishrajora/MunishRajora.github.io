@@ -19,7 +19,26 @@
 - Complex Analysis
 
 
-# Projects
+# Work Projects with Hewlett-Packard (HP) Inc.
+
+## i-Audit Copilot Project - Enhanced Call Audit System
+
+### Overview:
+The 'i-Audit Copilot' project was initiated to optimize the performance of customer support centers, where call agents serve as the frontline representatives, handling diverse customer inquiries. Traditional methods of call auditing proved cumbersome and subjective, often requiring manual listening to recorded calls, particularly burdensome for organizations dealing with high call volumes. To overcome these challenges, our solution harnessed cutting-edge voice-to-text conversion technology, revolutionizing the auditing process.
+
+### Key Contributions:
+- Spearheading a dynamic team of 5-6 individuals, I led the development of an enhanced call audit system, prioritizing efficiency and quality in a customer-centric environment.
+- Leveraged innovative voice-to-text conversion technology and a hybrid model blending deep learning and statistical techniques to effectively identify areas for improvement in call agent performance.
+- Addressed the limitations of traditional auditing methods by automating the process and enhancing objectivity, resulting in significant time and resource savings for the organization.
+- Ensured seamless communication and collaboration among team members, fostering a culture of innovation and excellence in project execution.
+
+### Impact:
+Through collaborative innovation and diligent teamwork, we delivered a transformative solution that significantly elevated call auditing standards, ultimately enhancing customer satisfaction and organizational performance. The 'i-Audit Copilot' project stands as a testament to our commitment to excellence and innovation in addressing complex business challenges.
+
+
+
+
+# work Projects with Hewlett-Packard (HP) Inc
 
 ## i-Audit Copilot Project - Enhanced Call Audit System
 ### Overview:
